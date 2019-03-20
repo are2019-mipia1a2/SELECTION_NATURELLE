@@ -9,4 +9,5 @@
   A partir des fonctions précédentes et de nos paramètres nous avons élaboré un code donnant la nouvelle population l'année suivante avec son code génétique, elle est constitué des individus ayant survécu et des nouveaux nés. 
   Enfin nous avons coder une fonction permettant d'appliquer le code précédent sur un nombre défini d'années. On constate déjà que sur 20 ans soit la population s'éteind soit elle augmente énormement. Dans ce cas on remarque que les gènes des individus sont principalement ceux qui donne la meilleure chance de survie.
     
-   
+## Semaine 3:
+  On a modifié nos codes d'attribution d'allèle et d'expression de l'allèle selon la dominance pour qu'ils fonctionnent avec un nombre indéfini de gène.
