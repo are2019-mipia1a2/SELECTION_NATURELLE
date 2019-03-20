@@ -10,4 +10,7 @@
   Enfin nous avons coder une fonction permettant d'appliquer le code précédent sur un nombre défini d'années. On constate déjà que sur 20 ans soit la population s'éteind soit elle augmente énormement. Dans ce cas on remarque que les gènes des individus sont principalement ceux qui donne la meilleure chance de survie.
     
 ## Semaine 3:
-  On a modifié nos codes d'attribution d'allèle et d'expression de l'allèle selon la dominance pour qu'ils fonctionnent avec un nombre indéfini de gène.
+  On a modifié nos codes d'attribution d'allèle et d'expression de l'allèle selon la dominance pour qu'ils fonctionnent avec un nombre indéfini de gène afin de se rapprocher de la réalité.
+  On a codé une fonction qui change la probabilité de survie en fonction des gènes afin de simuler un changement dans l'environnement,selon l'ampleur de la modification les probabilités de survies seront plus ou moins altérées.
+  On a codé une fonction permettant de simuler une mutation dans le code génétique d'un individu et que cette mutation se transmettent ou non selon les probabilités de survies qui lui sont attribuées.
+  On a ajouté deux graphiques permettant de visualer les probabilités de survies selon les allèles et le nombre d'individu avec un certain code génétique par année.
