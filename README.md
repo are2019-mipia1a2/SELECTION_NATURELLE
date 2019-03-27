@@ -14,3 +14,6 @@
   On a codé une fonction qui change la probabilité de survie en fonction des gènes afin de simuler un changement dans l'environnement,selon l'ampleur de la modification les probabilités de survies seront plus ou moins altérées.
   On a codé une fonction permettant de simuler une mutation dans le code génétique d'un individu et que cette mutation se transmettent ou non selon les probabilités de survies qui lui sont attribuées.
   On a ajouté deux graphiques permettant de visualer les probabilités de survies selon les allèles et le nombre d'individu avec un certain code génétique par année.
+  
+  ## Semaine 4:
+      Nous avons corrigés quelques problemes dans le code puis nous avons codé une fonction qui retourne un dictionnaire avec comme clé un gène et comme valeur une liste du nombre de porteur de ce gène chaque année. Nous avons ensuite utilisé cette fonction pour faire un graphique rerésentant l'évolution du nombre de personne portant chaque gène en fonction du temps. Nous avons pu tirer nos premières conclusions.
