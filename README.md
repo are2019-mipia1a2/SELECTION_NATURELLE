@@ -16,7 +16,7 @@
   On a ajouté deux graphiques permettant de visualer les probabilités de survies selon les allèles et le nombre d'individu avec un certain code génétique par année.
   
   ## Semaine 4:
-      Nous avons corrigés quelques problemes dans le code puis nous avons codé une fonction qui retourne un dictionnaire avec comme clé un gène et comme valeur une liste du nombre de porteur de ce gène chaque année. Nous avons ensuite utilisé cette fonction pour faire un graphique rerésentant l'évolution du nombre de personne portant chaque gène en fonction du temps. Nous avons pu tirer nos premières conclusions.
+    Nous avons corrigés quelques problemes dans le code puis nous avons codé une fonction qui retourne un dictionnaire avec comme clé un gène et comme valeur une liste du nombre de porteur de ce gène chaque année. Nous avons ensuite utilisé cette fonction pour faire un graphique rerésentant l'évolution du nombre de personne portant chaque gène en fonction du temps. Nous avons pu tirer nos premières conclusions.
 
 ## Semaine 5:
   Nous avons modifié une erreur dans le code (fonction change_allele). 
