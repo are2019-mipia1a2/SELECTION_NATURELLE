@@ -17,3 +17,7 @@
   
   ## Semaine 4:
       Nous avons corrigés quelques problemes dans le code puis nous avons codé une fonction qui retourne un dictionnaire avec comme clé un gène et comme valeur une liste du nombre de porteur de ce gène chaque année. Nous avons ensuite utilisé cette fonction pour faire un graphique rerésentant l'évolution du nombre de personne portant chaque gène en fonction du temps. Nous avons pu tirer nos premières conclusions.
+
+## Semaine 5:
+  Nous avons modifié une erreur dans le code (fonction change_allele). 
+  Nous avons ajouté une siganture avec description à chacune des fonctions. Et nous avons essayé de modéliser nos fonctions mais cela n'a pas encore abouti au résultat attendu. 
